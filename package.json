@@ -1,0 +1,27 @@
+{
+  "name": "wtf-backend-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iqbal0786/wtf-backend-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iqbal0786/wtf-backend-assignment/issues"
+  },
+  "homepage": "https://github.com/Iqbal0786/wtf-backend-assignment#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3",
+    "nanoid": "^4.0.0"
+  }
+}
